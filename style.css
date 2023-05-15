@@ -1,0 +1,43 @@
+.headlink-container{
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 850px;
+    display: inline;}
+.header-container{
+    justify-content: flex-start;
+    background-color: #1F2937;
+    height: 500px;
+    color: aliceblue;
+    padding-left: 150px;
+    padding-top: 50px;
+    font-size: 24px; 
+     
+}
+h5{
+    display: inline;
+}
+a{
+    padding-left: 15px;
+}
+.welcome-para{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.main-header{
+    font-size: 48px;
+    color: #E5E7EB;
+}
+button {
+    border-radius: 8px;
+    border: none;
+    background-color: #2563eb;
+    color: white;
+    font-size: 18px;
+    padding: 10px 24px;
+    text-align: center;
+    transition: transform .3s ease-in-out;
+    margin-top: 10px;
+  } 
+  button:hover {
+    transform: scale(1.2)
+  }
